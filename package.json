@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "Babel",
+  "main": "index.js",
+  "keywords": [
+    "git@github.com:sku11busters/babel.git"
+  ],
+  "author": "skullbusters",
+  "license": "ISC"
+}
